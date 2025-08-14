@@ -37,3 +37,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimCarolyna&layout=compact&theme=nightowl" alt="langs"/>
 </p>
+
+<div> 
+<a href="https://www.instagram.com/kimcarolyna/" target="_black"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=_black"></a>
+<a href="[https://www.instagram.com/kimcarolyna/](https://mail.google.com/mail/u/0/#inbox)" target="_black"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" target=_black"></a>  
+</div>
