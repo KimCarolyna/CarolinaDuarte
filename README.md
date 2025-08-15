@@ -5,6 +5,22 @@
 <p align="center">
   <img src="banner.png" alt="Banner" width="100%">
 </p>
+
+## 🎯 Goals & Objectives
+
+- 🛠️ Work on a **authorial project** that combines creativity and code
+- 🌐 Improve skills in **HTML, CSS, and JavaScript**
+- 🖥️ Explore **Electron** to create unique desktop experiences
+- 🎨 Create **responsive interfaces with a retro vibe**  
+
+---
+
+## 📚 Current Learning
+
+- 📌 **Front-end:** HTML • CSS • JavaScript
+- 📌 **Desktop:** Electron
+- 📌 **Design:** Pixel Art
+- 📌 **Objective:** Transform ideas into immersive digital experiences
 <!-- Ícones de linguagens e ferramentas -->
 <p align="center">
   <!-- JavaScript -->
@@ -40,5 +56,5 @@
 
 <div> 
 <a href="https://www.instagram.com/kimcarolyna/" target="_black"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=_black"></a>
-<a href="ccarolinaduarte55@gmail.com" target="_black"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" target=_black"></a>  
+<a href="[ccarolinaduarte55@gmail.com](https://mail.google.com/mail/u/0/#inbox)" target="_black"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" target=_black"></a>  
 </div>
