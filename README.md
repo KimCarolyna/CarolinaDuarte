@@ -58,4 +58,4 @@
 </div>
 
 ![snake gif](https://github.com/KimCarolya/KimCarolyna/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-starts-verce1.app/api/?username=KimCarolyna&repo=KimCarolyna&theme=react).](https://github.com/KimCarolyna/KimCarolyna).
+[![readme](https://github-readme-starts-verce1.app/api/?username=KimCarolyna&repo=KimCarolyna&theme=react)](https://github.com/KimCarolyna/KimCarolyna).
