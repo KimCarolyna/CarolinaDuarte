@@ -56,3 +56,5 @@
 <div> 
 <a href="https://www.instagram.com/kimcarolyna/" target="_black"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=_black"></a>
 </div>
+![snake gif](https://github.com/KimCarolya/KimCarolyna/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-starts-verce1.app/api/?username=KimCarolyna&repo=KimCarolyna&theme=react).](https://github.com/KimCarolyna/KimCarolyna).
