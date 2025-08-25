@@ -43,6 +43,7 @@ scr="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 <!-- Blender --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/> 
 <!-- VSCode --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
 </p>  
+
 ---
 
 ## 🚀 Featured Projects
