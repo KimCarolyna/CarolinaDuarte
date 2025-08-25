@@ -50,7 +50,9 @@
 ---
 
 <!-- Estatísticas do GitHub -->
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KimCarolyna&show_icons=true&theme=nightowl" alt="stats"/>
+</p>
 
 <!-- Linguagens mais usadas -->
 <p align="center">
